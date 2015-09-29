@@ -322,22 +322,22 @@
 \setlength{\hoffset}{-1in}
 \setlength{\voffset}{-1in}
 
-\setlength{\topmargin}{1in}
+\setlength{\topmargin}{0.25in}
 \setlength{\headheight}{0pt}
 \setlength{\headsep}{0pt}
 
 \if \@onecolumn
-  \setlength{\evensidemargin}{.75in}
-  \setlength{\oddsidemargin}{.75in}
+  \setlength{\evensidemargin}{.25in}
+  \setlength{\oddsidemargin}{.25in}
 \else
-  \setlength{\evensidemargin}{.75in}
-  \setlength{\oddsidemargin}{.75in}
+  \setlength{\evensidemargin}{.25in}
+  \setlength{\oddsidemargin}{.25in}
 \fi
 
 % Text area:
 
 \newdimen{\standardtextwidth}
-\setlength{\standardtextwidth}{42pc}
+\setlength{\standardtextwidth}{48pc}
 
 \if \@onecolumn
   \setlength{\textwidth}{40.5pc}
@@ -345,13 +345,13 @@
   \setlength{\textwidth}{\standardtextwidth}
 \fi
 
-\setlength{\topskip}{8pt}
+\setlength{\topskip}{2pt}
 \setlength{\columnsep}{2pc}
-\setlength{\textheight}{54.5pc}
+\setlength{\textheight}{60pc}
 
 % Running foot:
 
-\setlength{\footskip}{30pt}
+\setlength{\footskip}{40pt}
 
 % Paragraphs:
 
@@ -580,8 +580,7 @@
     \parbox[b]{20pc}{%
       \scriptsize
       \if \@preprint
-        [Copyright notice will appear here
-         once 'preprint' option is removed.]\par
+        \par
       \else
         \@toappear
       \fi

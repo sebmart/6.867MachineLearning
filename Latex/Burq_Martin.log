@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 SEP 2015 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 SEP 2015 22:17
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -156,27 +156,24 @@ Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 )
 (./Burq_Martin.aux
 
-LaTeX Warning: Label `wtime' multiply defined.
-
-
-LaTeX Warning: Label `wtime' multiply defined.
+LaTeX Warning: Label `Bishop' multiply defined.
 
 )
 \openout1 = `Burq_Martin.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -241,8 +238,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+Underfull \hbox (badness 1303) in paragraph at lines 14--16
+[]\OT1/ptm/m/n/24.88 6.867: Ma-chine Learn-ing,
+ []
 
 (./Q1.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -263,84 +261,196 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: Reference `' on page 1 undefined on input line 13.
-
 Missing character: There is no Â in font ptmr7t!
 Missing character: There is no   in font ptmr7t!
 
-LaTeX Warning: Reference `' on page 1 undefined on input line 13.
-
-<../Figures/Q1/normals.png, id=1, 433.62pt x 289.08pt>
-File: ../Figures/Q1/normals.png Graphic file (type png)
-
-<use ../Figures/Q1/normals.png>
-Package pdftex.def Info: ../Figures/Q1/normals.png used on input line 21.
-(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Figures/Q1/nonconv.png, id=3, 433.62pt x 289.08pt>
-File: ../Figures/Q1/nonconv.png Graphic file (type png)
-
-<use ../Figures/Q1/nonconv.png>
-Package pdftex.def Info: ../Figures/Q1/nonconv.png used on input line 27.
-(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Figures/Q1/bowl.png, id=4, 433.62pt x 289.08pt>
+<../Figures/Q1/bowl.png, id=1, 433.62pt x 289.08pt>
 File: ../Figures/Q1/bowl.png Graphic file (type png)
 
 <use ../Figures/Q1/bowl.png>
-Package pdftex.def Info: ../Figures/Q1/bowl.png used on input line 33.
-(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+Package pdftex.def Info: ../Figures/Q1/bowl.png used on input line 21.
+(pdftex.def)             Requested size: 113.81041pt x 113.8082pt.
+
+<../Figures/Q1/normals.png, id=3, 433.62pt x 289.08pt>
+File: ../Figures/Q1/normals.png Graphic file (type png)
+
+<use ../Figures/Q1/normals.png>
+Package pdftex.def Info: ../Figures/Q1/normals.png used on input line 38.
+(pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
+
+<../Figures/Q1/normals2.png, id=4, 433.62pt x 289.08pt>
+File: ../Figures/Q1/normals2.png Graphic file (type png)
+
+<use ../Figures/Q1/normals2.png>
+Package pdftex.def Info: ../Figures/Q1/normals2.png used on input line 39.
+(pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
+
+<../Figures/Q1/nonconv.png, id=5, 433.62pt x 289.08pt>
+File: ../Figures/Q1/nonconv.png Graphic file (type png)
+
+<use ../Figures/Q1/nonconv.png>
+Package pdftex.def Info: ../Figures/Q1/nonconv.png used on input line 48.
+(pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
+
+<../Figures/Q1/nonconv2.png, id=6, 433.62pt x 289.08pt>
+File: ../Figures/Q1/nonconv2.png Graphic file (type png)
+
+<use ../Figures/Q1/nonconv2.png>
+Package pdftex.def Info: ../Figures/Q1/nonconv2.png used on input line 49.
+(pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
+File: ../Figures/Q1/bowl.png Graphic file (type png)
+ <use ../Figures/Q1/bowl.png>
+Package pdftex.def Info: ../Figures/Q1/bowl.png used on input line 59.
+(pdftex.def)             Requested size: 156.49345pt x 142.26357pt.
+
+<../Figures/Q1/bowl2.png, id=7, 433.62pt x 289.08pt>
+File: ../Figures/Q1/bowl2.png Graphic file (type png)
+
+<use ../Figures/Q1/bowl2.png>
+Package pdftex.def Info: ../Figures/Q1/bowl2.png used on input line 60.
+(pdftex.def)             Requested size: 156.49345pt x 142.26357pt.
+
+<../Figures/Q1/bowl3.png, id=8, 433.62pt x 289.08pt>
+File: ../Figures/Q1/bowl3.png Graphic file (type png)
+
+<use ../Figures/Q1/bowl3.png>
+Package pdftex.def Info: ../Figures/Q1/bowl3.png used on input line 61.
+(pdftex.def)             Requested size: 284.54257pt x 142.26357pt.
+
+Overfull \hbox (8.54257pt too wide) in paragraph at lines 59--62
+ [] 
+ []
+
+[1
+
+
+Non-PDF special ignored!{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map} <../Figures/Q1/bowl.png> <../Figures/Q1/normals.png> <../Figure
+s/Q1/normals2.png> <../Figures/Q1/nonconv.png> <../Figures/Q1/nonconv2.png>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: - on input line 72.
+
+) (./Q2.tex <../Figures/Q2/M0.png, id=32, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M0.png Graphic file (type png)
+
+<use ../Figures/Q2/M0.png>
+Package pdftex.def Info: ../Figures/Q2/M0.png used on input line 13.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+ <../Figures/Q2/M1.png, id=33, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M1.png Graphic file (type png)
+
+<use ../Figures/Q2/M1.png>
+Package pdftex.def Info: ../Figures/Q2/M1.png used on input line 14.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+ <../Figures/Q2/M3.png, id=34, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M3.png Graphic file (type png)
+
+<use ../Figures/Q2/M3.png>
+Package pdftex.def Info: ../Figures/Q2/M3.png used on input line 15.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+ <../Figures/Q2/M9.png, id=35, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M9.png Graphic file (type png)
+
+<use ../Figures/Q2/M9.png>
+Package pdftex.def Info: ../Figures/Q2/M9.png used on input line 16.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/b/n/10 Figure 5. \OT1/ptm/m/n/10 Fig-ures ob-tained us-ing the op-ti-m
+al $\OML/cmm/m/it/10 w$ \OT1/ptm/m/n/10 from
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./Q2.tex) (./Q3.tex) (./Q4.tex) [1{/usr/local/texlive/2014/texmf-var/fonts/m
-ap/pdftex/updmap/pdftex.map}
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no   in font ptmr7t!
+[2 <../Figures/Q1/bowl2.png> <../Figures/Q1/bowl3.png>]
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no   in font ptmr7t!
+
+Overfull \hbox (23.3097pt too wide) in paragraph at lines 30--38
+ [] 
+ []
+
+<../Figures/Q2/M0bis.png, id=42, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M0bis.png Graphic file (type png)
+
+<use ../Figures/Q2/M0bis.png>
+Package pdftex.def Info: ../Figures/Q2/M0bis.png used on input line 44.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+
+<../Figures/Q2/M1bis.png, id=43, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M1bis.png Graphic file (type png)
+
+<use ../Figures/Q2/M1bis.png>
+Package pdftex.def Info: ../Figures/Q2/M1bis.png used on input line 45.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+
+<../Figures/Q2/M3bis.png, id=44, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M3bis.png Graphic file (type png)
+
+<use ../Figures/Q2/M3bis.png>
+Package pdftex.def Info: ../Figures/Q2/M3bis.png used on input line 46.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+
+<../Figures/Q2/M9quat.png, id=45, 433.62pt x 289.08pt>
+File: ../Figures/Q2/M9quat.png Graphic file (type png)
+
+<use ../Figures/Q2/M9quat.png>
+Package pdftex.def Info: ../Figures/Q2/M9quat.png used on input line 47.
+(pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
+
+Underfull \hbox (badness 1412) in paragraph at lines 48--48
+\OT1/ptm/b/n/10 Figure 6. \OT1/ptm/m/n/10 Fig-ures ob-tained us-ing the $\OML/c
+mm/m/it/10 w$ \OT1/ptm/m/n/10 com-puted us-ing from
+ []
 
 
- <../Figures/Q1/normals.png> <../Figures/Q1/nonconv.png> <../Figures/Q1/bowl.pn
-g>] (./Burq_Martin.aux)
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Warning: There were undefined references.
 
+Overfull \hbox (32.98724pt too wide) in paragraph at lines 54--55
+[]\OT1/ptm/m/n/10 We next com-pare the num-ber of calls to SSE needed by \OT1/c
+mtt/m/n/10 gradientDescent
+ []
+
+) (./Q3.tex) (./Q4.tex) [3 <../Figures/Q2/M0.png> <../Figures/Q2/M1.png> <../Fi
+gures/Q2/M3.png> <../Figures/Q2/M9.png> <../Figures/Q2/M0bis.png> <../Figures/Q
+2/M1bis.png> <../Figures/Q2/M3bis.png> <../Figures/Q2/M9quat.png>]
+(./Burq_Martin.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2970 strings out of 493117
- 38700 string characters out of 6135433
- 104604 words of memory out of 5000000
- 6377 multiletter control sequences out of 15000+600000
- 17065 words of font info for 39 fonts, out of 8000000 for 9000
+ 3021 strings out of 493117
+ 40000 string characters out of 6135433
+ 111576 words of memory out of 5000000
+ 6419 multiletter control sequences out of 15000+600000
+ 12436 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,5n,30p,357b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,30p,569b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
-urw/times/utmri8a.pfb>
-Output written on Burq_Martin.pdf (1 page, 620543 bytes).
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb>
+Output written on Burq_Martin.pdf (3 pages, 1443134 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,17 +1,31 @@
 \relax 
 \@writefile{toc}{\contentsline {section}{\numberline {1}Implement Gradient Descent}{1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Implementation the gradient Descent}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Benchmark and Choice of the parameters}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Numerical Gradient}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Comparison with existing optimization methods}{1}}
-\newlabel{comparison}{{1.4}{1}}
-\@writefile{toc}{\contentsline {section}{\numberline {2}Linear Basis Function Regression}{1}}
-\@writefile{toc}{\contentsline {section}{\numberline {3}Ridge Regression}{1}}
-\@writefile{toc}{\contentsline {section}{\numberline {4}Generalizations}{1}}
-\newlabel{sigplanconf@finalpage}{{4}{1}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces $f : (x,y) \to e^{-\frac  {x^2 + y^2}{2}} + e^{-\frac  {(x-3)^2 + (y-3)^2}{2}}$}}{1}}
-\newlabel{wtime}{{1}{1}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces $f : (x,y) \to xy$}}{1}}
-\newlabel{wtime}{{2}{1}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces $f : (x,y) \to x^2 + y^2$}}{1}}
-\newlabel{wtime}{{3}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Results and Impact of the choice of parameters}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces $f : (x,y) \to 10x^2 + 10y^2$, $x_0 = (4,4)$, $s = 0.1$ and $\epsilon = 0.01$}}{1}}
+\newlabel{bowl}{{1}{1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.1}Impact of the initial guess}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces $f : (x,y) \to -e^{-\frac  {x^2 + y^2}{2}} - e^{-\frac  {(x-3)^2 + (y-3)^2}{2}}$,$x_0 = (4,3.9)$ (top figure) and $x_0 = (4,4)$(bottom figure), $s = 0.1$ and $\epsilon = 10^{-3}$.}}{1}}
+\newlabel{normals}{{2}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces $f : (x,y) \to xy$, $x_0 = (3,0)$ (top figure) and $x_0 = (2.9,0)$(bottom figure), $s = 0.3$ and $\epsilon = 10^{-4}$.}}{1}}
+\newlabel{nonconv}{{3}{1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.2}Impact of the step size}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces $f : (x,y) \to 10x^2 + 10y^2$, $x_0 = (4,4)$, top to bottom: $s = 0.01, 0.1, 0.11$ and $\epsilon = 0.01$.}}{2}}
+\newlabel{bowls}{{4}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Impact of the convergence criterion}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Numerical Gradient}{2}}
+\newlabel{numGrad}{{1.4}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.5}Comparison with existing optimization methods}{2}}
+\newlabel{comparison}{{1.5}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Linear Basis Function Regression}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Maximum Likelihood weight vector}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Sum of Squared Errors}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Figures obtained using the optimal $w$ from {\tt  regressionFit}}}{3}}
+\newlabel{Bishop}{{5}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Gradient Descent to optimize SSE}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Sin basis functions}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Figures obtained using the $w$ computed using from {\tt  gradientDescent} to minimize the SSE. $w = 0 \in \mathbb  {R}^10$, $s= 0.04$ and $\epsilon = 10^{-7}$.}}{3}}
+\newlabel{Bishop}{{6}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Ridge Regression}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Generalizations}{3}}
+\newlabel{sigplanconf@finalpage}{{4}{3}}
