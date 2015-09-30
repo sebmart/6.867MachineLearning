@@ -1,18 +1,18 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 SEP 2015 22:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.13)  30 SEP 2015 00:41
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **Burq_Martin.tex
 (./Burq_Martin.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (./sigplanconf.cls
 Document Class: sigplanconf 2013/07/02 v2.8 ACM SIGPLAN Proceedings
 \@numheaddepth=\count79
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -31,7 +31,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \standardvspace=\skip43
 
 Using natbib package with 'numbers' citation style.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip44
 \bibsep=\skip45
@@ -49,25 +49,21 @@ LaTeX Info: Redefining \cite on input line 694.
 \@fnmark=\toks15
 \@authori=\count91
 \@measbox=\box26
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen104
-))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count92
@@ -107,42 +103,32 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks21
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count104
@@ -150,11 +136,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/enumerate.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks22
-)
-(./Burq_Martin.aux
+) (./Burq_Martin.aux
 
 LaTeX Warning: Label `Bishop' multiply defined.
 
@@ -174,10 +159,9 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+) (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
 \scratchdimen=\dimen115
@@ -190,15 +174,12 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count109
 \makeMPintoPDFobject=\count110
 \everyMPtoPDFconversion=\toks24
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -206,23 +187,17 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -230,13 +205,10 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Underfull \hbox (badness 1303) in paragraph at lines 14--16
 []\OT1/ptm/m/n/24.88 6.867: Ma-chine Learn-ing,
@@ -253,67 +225,52 @@ LaTeX Warning: The counter will not be printed.
              The label is: - on input line 4.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 5.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Missing character: There is no Â in font ptmr7t!
 Missing character: There is no   in font ptmr7t!
-
-<../Figures/Q1/bowl.png, id=1, 433.62pt x 289.08pt>
+ <../Figures/Q1/bowl.png, id=1, 433.62pt x 289.08pt>
 File: ../Figures/Q1/bowl.png Graphic file (type png)
-
-<use ../Figures/Q1/bowl.png>
+ <use ../Figures/Q1/bowl.png>
 Package pdftex.def Info: ../Figures/Q1/bowl.png used on input line 21.
 (pdftex.def)             Requested size: 113.81041pt x 113.8082pt.
-
-<../Figures/Q1/normals.png, id=3, 433.62pt x 289.08pt>
+ <../Figures/Q1/normals.png, id=3, 433.62pt x 289.08pt>
 File: ../Figures/Q1/normals.png Graphic file (type png)
-
-<use ../Figures/Q1/normals.png>
+ <use ../Figures/Q1/normals.png>
 Package pdftex.def Info: ../Figures/Q1/normals.png used on input line 38.
 (pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
-
-<../Figures/Q1/normals2.png, id=4, 433.62pt x 289.08pt>
+ <../Figures/Q1/normals2.png, id=4, 433.62pt x 289.08pt>
 File: ../Figures/Q1/normals2.png Graphic file (type png)
-
-<use ../Figures/Q1/normals2.png>
+ <use ../Figures/Q1/normals2.png>
 Package pdftex.def Info: ../Figures/Q1/normals2.png used on input line 39.
 (pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
-
-<../Figures/Q1/nonconv.png, id=5, 433.62pt x 289.08pt>
+ <../Figures/Q1/nonconv.png, id=5, 433.62pt x 289.08pt>
 File: ../Figures/Q1/nonconv.png Graphic file (type png)
-
-<use ../Figures/Q1/nonconv.png>
+ <use ../Figures/Q1/nonconv.png>
 Package pdftex.def Info: ../Figures/Q1/nonconv.png used on input line 48.
 (pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
-
-<../Figures/Q1/nonconv2.png, id=6, 433.62pt x 289.08pt>
+ <../Figures/Q1/nonconv2.png, id=6, 433.62pt x 289.08pt>
 File: ../Figures/Q1/nonconv2.png Graphic file (type png)
-
-<use ../Figures/Q1/nonconv2.png>
+ <use ../Figures/Q1/nonconv2.png>
 Package pdftex.def Info: ../Figures/Q1/nonconv2.png used on input line 49.
 (pdftex.def)             Requested size: 199.16928pt x 132.7799pt.
 File: ../Figures/Q1/bowl.png Graphic file (type png)
  <use ../Figures/Q1/bowl.png>
 Package pdftex.def Info: ../Figures/Q1/bowl.png used on input line 59.
 (pdftex.def)             Requested size: 156.49345pt x 142.26357pt.
-
-<../Figures/Q1/bowl2.png, id=7, 433.62pt x 289.08pt>
+ <../Figures/Q1/bowl2.png, id=7, 433.62pt x 289.08pt>
 File: ../Figures/Q1/bowl2.png Graphic file (type png)
-
-<use ../Figures/Q1/bowl2.png>
+ <use ../Figures/Q1/bowl2.png>
 Package pdftex.def Info: ../Figures/Q1/bowl2.png used on input line 60.
 (pdftex.def)             Requested size: 156.49345pt x 142.26357pt.
-
-<../Figures/Q1/bowl3.png, id=8, 433.62pt x 289.08pt>
+ <../Figures/Q1/bowl3.png, id=8, 433.62pt x 289.08pt>
 File: ../Figures/Q1/bowl3.png Graphic file (type png)
-
-<use ../Figures/Q1/bowl3.png>
+ <use ../Figures/Q1/bowl3.png>
 Package pdftex.def Info: ../Figures/Q1/bowl3.png used on input line 61.
 (pdftex.def)             Requested size: 284.54257pt x 142.26357pt.
 
@@ -324,41 +281,34 @@ Overfull \hbox (8.54257pt too wide) in paragraph at lines 59--62
 [1
 
 
-Non-PDF special ignored!{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map} <../Figures/Q1/bowl.png> <../Figures/Q1/normals.png> <../Figure
-s/Q1/normals2.png> <../Figures/Q1/nonconv.png> <../Figures/Q1/nonconv2.png>]
+Non-PDF special ignored!{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Figures/Q1/bowl.png> <../Figures/Q1/normals.png> <../Figures/Q1/normals2.png> <../Figures/Q1/nonconv.png> <../Figures/Q1/nonconv2.png>]
 
 LaTeX Warning: The counter will not be printed.
              The label is: - on input line 72.
 
 ) (./Q2.tex <../Figures/Q2/M0.png, id=32, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M0.png Graphic file (type png)
-
-<use ../Figures/Q2/M0.png>
+ <use ../Figures/Q2/M0.png>
 Package pdftex.def Info: ../Figures/Q2/M0.png used on input line 13.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
  <../Figures/Q2/M1.png, id=33, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M1.png Graphic file (type png)
-
-<use ../Figures/Q2/M1.png>
+ <use ../Figures/Q2/M1.png>
 Package pdftex.def Info: ../Figures/Q2/M1.png used on input line 14.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
  <../Figures/Q2/M3.png, id=34, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M3.png Graphic file (type png)
-
-<use ../Figures/Q2/M3.png>
+ <use ../Figures/Q2/M3.png>
 Package pdftex.def Info: ../Figures/Q2/M3.png used on input line 15.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
  <../Figures/Q2/M9.png, id=35, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M9.png Graphic file (type png)
-
-<use ../Figures/Q2/M9.png>
+ <use ../Figures/Q2/M9.png>
 Package pdftex.def Info: ../Figures/Q2/M9.png used on input line 16.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 17--17
-\OT1/ptm/b/n/10 Figure 5. \OT1/ptm/m/n/10 Fig-ures ob-tained us-ing the op-ti-m
-al $\OML/cmm/m/it/10 w$ \OT1/ptm/m/n/10 from
+\OT1/ptm/b/n/10 Figure 5. \OT1/ptm/m/n/10 Fig-ures ob-tained us-ing the op-ti-mal $\OML/cmm/m/it/10 w$ \OT1/ptm/m/n/10 from
  []
 
 
@@ -376,35 +326,27 @@ Overfull \hbox (23.3097pt too wide) in paragraph at lines 30--38
 
 <../Figures/Q2/M0bis.png, id=42, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M0bis.png Graphic file (type png)
-
-<use ../Figures/Q2/M0bis.png>
+ <use ../Figures/Q2/M0bis.png>
 Package pdftex.def Info: ../Figures/Q2/M0bis.png used on input line 44.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
-
-<../Figures/Q2/M1bis.png, id=43, 433.62pt x 289.08pt>
+ <../Figures/Q2/M1bis.png, id=43, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M1bis.png Graphic file (type png)
-
-<use ../Figures/Q2/M1bis.png>
+ <use ../Figures/Q2/M1bis.png>
 Package pdftex.def Info: ../Figures/Q2/M1bis.png used on input line 45.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
-
-<../Figures/Q2/M3bis.png, id=44, 433.62pt x 289.08pt>
+ <../Figures/Q2/M3bis.png, id=44, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M3bis.png Graphic file (type png)
-
-<use ../Figures/Q2/M3bis.png>
+ <use ../Figures/Q2/M3bis.png>
 Package pdftex.def Info: ../Figures/Q2/M3bis.png used on input line 46.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
-
-<../Figures/Q2/M9quat.png, id=45, 433.62pt x 289.08pt>
+ <../Figures/Q2/M9quat.png, id=45, 433.62pt x 289.08pt>
 File: ../Figures/Q2/M9quat.png Graphic file (type png)
-
-<use ../Figures/Q2/M9quat.png>
+ <use ../Figures/Q2/M9quat.png>
 Package pdftex.def Info: ../Figures/Q2/M9quat.png used on input line 47.
 (pdftex.def)             Requested size: 122.34692pt x 81.5638pt.
 
 Underfull \hbox (badness 1412) in paragraph at lines 48--48
-\OT1/ptm/b/n/10 Figure 6. \OT1/ptm/m/n/10 Fig-ures ob-tained us-ing the $\OML/c
-mm/m/it/10 w$ \OT1/ptm/m/n/10 com-puted us-ing from
+\OT1/ptm/b/n/10 Figure 6. \OT1/ptm/m/n/10 Fig-ures ob-tained us-ing the $\OML/cmm/m/it/10 w$ \OT1/ptm/m/n/10 com-puted us-ing from
  []
 
 
@@ -412,45 +354,99 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \hbox (32.98724pt too wide) in paragraph at lines 54--55
-[]\OT1/ptm/m/n/10 We next com-pare the num-ber of calls to SSE needed by \OT1/c
-mtt/m/n/10 gradientDescent
+[]\OT1/ptm/m/n/10 We next com-pare the num-ber of calls to SSE needed by \OT1/cmtt/m/n/10 gradientDescent
  []
 
-) (./Q3.tex) (./Q4.tex) [3 <../Figures/Q2/M0.png> <../Figures/Q2/M1.png> <../Fi
-gures/Q2/M3.png> <../Figures/Q2/M9.png> <../Figures/Q2/M0bis.png> <../Figures/Q
-2/M1bis.png> <../Figures/Q2/M3bis.png> <../Figures/Q2/M9quat.png>]
-(./Burq_Martin.aux)
+) (./Q3.tex <../Figures/Q3/ridge1.png, id=46, 887.315pt x 603.25375pt>
+File: ../Figures/Q3/ridge1.png Graphic file (type png)
+ <use ../Figures/Q3/ridge1.png>
+Package pdftex.def Info: ../Figures/Q3/ridge1.png used on input line 15.
+(pdftex.def)             Requested size: 293.06346pt x 199.24004pt.
+
+Overfull \hbox (17.06346pt too wide) in paragraph at lines 15--16
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <../Figures/Q2/M0.png> <../Figures/Q2/M1.png> <../Figures/Q2/M3.png> <../Figures/Q2/M9.png> <../Figures/Q2/M0bis.png> <../Figures/Q2/M1bis.png> <../Figures/Q2/M3bis.png> <../Figures/Q2/M9quat.png>] <../Figures/Q3/ridge2.png, id=59, 871.255pt x 603.25375pt>
+File: ../Figures/Q3/ridge2.png Graphic file (type png)
+ <use ../Figures/Q3/ridge2.png>
+Package pdftex.def Info: ../Figures/Q3/ridge2.png used on input line 34.
+(pdftex.def)             Requested size: 293.06346pt x 202.9128pt.
+
+Overfull \hbox (17.06346pt too wide) in paragraph at lines 34--35
+ [][] 
+ []
+
+<../Figures/Q3/grid.png, id=60, 529.98pt x 394.47375pt>
+File: ../Figures/Q3/grid.png Graphic file (type png)
+ <use ../Figures/Q3/grid.png>
+Package pdftex.def Info: ../Figures/Q3/grid.png used on input line 43.
+(pdftex.def)             Requested size: 227.62204pt x 169.42177pt.
+
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 61.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+) (./Q4.tex [4 <../Figures/Q3/ridge1.png> <../Figures/Q3/ridge2.png> <../Figures/Q3/grid.png>] <../Figures/Q4/LAD1.png, id=68, 887.315pt x 603.25375pt>
+File: ../Figures/Q4/LAD1.png Graphic file (type png)
+ <use ../Figures/Q4/LAD1.png>
+Package pdftex.def Info: ../Figures/Q4/LAD1.png used on input line 24.
+(pdftex.def)             Requested size: 293.06346pt x 199.24004pt.
+
+Overfull \hbox (17.06346pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
+
+<../Figures/Q4/lad2.png, id=69, 871.255pt x 603.25375pt>
+File: ../Figures/Q4/lad2.png Graphic file (type png)
+ <use ../Figures/Q4/lad2.png>
+Package pdftex.def Info: ../Figures/Q4/lad2.png used on input line 41.
+(pdftex.def)             Requested size: 293.06346pt x 202.9128pt.
+
+Overfull \hbox (17.06346pt too wide) in paragraph at lines 41--42
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../Figures/Q4/grid.png, id=70, 529.98pt x 394.47375pt>
+File: ../Figures/Q4/grid.png Graphic file (type png)
+ <use ../Figures/Q4/grid.png>
+Package pdftex.def Info: ../Figures/Q4/grid.png used on input line 50.
+(pdftex.def)             Requested size: 227.62204pt x 169.42177pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <../Figures/Q4/LAD1.png> <../Figures/Q4/lad2.png> <../Figures/Q4/grid.png>]) [6
+
+] (./Burq_Martin.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3021 strings out of 493117
- 40000 string characters out of 6135433
- 111576 words of memory out of 5000000
- 6419 multiletter control sequences out of 15000+600000
- 12436 words of font info for 32 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 37i,11n,30p,569b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb>
-Output written on Burq_Martin.pdf (3 pages, 1443134 bytes).
+ 3084 strings out of 493315
+ 41190 string characters out of 6137904
+ 111841 words of memory out of 5000000
+ 6457 multiletter control sequences out of 15000+600000
+ 14125 words of font info for 37 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,11n,30p,777b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/lo
+cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Burq_Martin.pdf (6 pages, 1685269 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 131 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
